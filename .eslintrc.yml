@@ -13,4 +13,5 @@ plugins:
   - react
 rules:
   import/extensions: 0
+  react/function-component-definition: 0
 
